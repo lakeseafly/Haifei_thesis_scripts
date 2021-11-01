@@ -2,7 +2,7 @@
 
 ## Pangenome analysis pipeline
 
-The pangenome analysis pipeline used in my thesis has been summarised and demonstrated as the book chapter "Legume Pangenome Construction Using an Iterative Mapping and Assembly Approach", which can access by the DOI: https://doi.org/10.1007/978-1-0716-0235-5_3.
+The pangenome analysis pipeline used in my thesis has been summarised and demonstrated as a published book chapter "Legume Pangenome Construction Using an Iterative Mapping and Assembly Approach", which can access by the DOI: https://doi.org/10.1007/978-1-0716-0235-5_3.
 
 ## Remove_reads_with_Ns.py
 
