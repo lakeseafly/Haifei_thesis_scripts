@@ -1,4 +1,4 @@
-## Supplementary scripts for Haifei's thesis: Construction and analysis of the pangenomes of Amborella trichopoda and soybean and a comparative pangenomic study in flowering plants with different evolutionary histories
+## Supplementary Notes for Haifei's thesis: Construction and analysis of the pangenomes of Amborella trichopoda and soybean and a comparative pangenomic study in flowering plants with different evolutionary histories
 
 ## Remove_reads_with_Ns.py
 
